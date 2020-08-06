@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Breeze2</string>
+    <string name="button_text">search</string>
+    <string name="hint_value">search any music here</string>
+</resources>
