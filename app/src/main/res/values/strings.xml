@@ -2,4 +2,6 @@
     <string name="app_name">Breeze2</string>
     <string name="button_text">search</string>
     <string name="hint_value">search any music here</string>
+    <string name="musicName">musicName</string>
+    <string name="albumCover">albumCover</string>
 </resources>
